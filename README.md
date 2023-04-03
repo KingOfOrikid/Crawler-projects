@@ -2,7 +2,6 @@
 A summary of some simple crawler projects, including static and dynamic crawlers
 
 ## Introduction
-
 ### Conceptual search result crawling
 Enter a keyword, and retrieve all the URLs and webpage contents from a specific search engine (Baidu) that are related to the keyword.
 
